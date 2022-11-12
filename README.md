@@ -1,13 +1,13 @@
 1. In ce an estimezi sa finalizezi studiile (ex. sunt anul 3/4 sau nu mai sunt stundent) ?
 
-Raspuns: Sunt student in anul 2 din 3 estimez ca in 2 ani imi voi termina studiile.
+**Raspuns: Sunt student in anul 2 din 3 estimez ca in 2 ani imi voi termina studiile.**
 
 2. Care ar fi optiunile tale pentru acest internship ?
 a) Doresc numai Azure DevOPS
 b) Doresc numai Dynamics
 c) Sunt interesat/a de ambele variante, respectiv care sunt prioritatile ?
 
-Raspuns: c) Sunt interesat de ambele, Dynamics avand prioritate.
+**Raspuns: c) Sunt interesat de ambele, Dynamics avand prioritate.**
 
 
 Problem 1
@@ -17,6 +17,8 @@ Given the large number of cow farms in the area he lives in, John decided to est
 In order to assure the quality of his products, John extended his milk processing plant with a quality lab, which can analyze any of the goods produced at the plant using two types of test-methods (analog and digital). The lab creates fact sheets about the quality of the ingredients of the goods.
 
 1.1.  Please create a class diagram based on the above story.
+
+![alt text](https://github.com/TudorMurariu/Siemens-Internship-Problem-Set/blob/main/UML.PNG)
 
 1.2.  Please create a database diagram based on the previous story.
 
