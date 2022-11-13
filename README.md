@@ -2,7 +2,7 @@
 
 1. In ce an estimezi sa finalizezi studiile (ex. sunt anul 3/4 sau nu mai sunt stundent) ?
 
-**Raspuns: Sunt student in anul 2 din 3 estimez ca in 2 ani imi voi termina studiile.**
+**Raspuns: Sunt student in anul 2 din 3, estimez ca in 2 ani (2024) imi voi termina studiile.**
 
 2. Care ar fi optiunile tale pentru acest internship ?
 a) Doresc numai Azure DevOPS
