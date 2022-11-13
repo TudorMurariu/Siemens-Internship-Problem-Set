@@ -21,6 +21,7 @@ In order to assure the quality of his products, John extended his milk processin
 1.1.  Please create a class diagram based on the above story.
 
 ![alt text](https://github.com/TudorMurariu/Siemens-Internship-Problem-Set/blob/main/UML.PNG)
+the code for this problem can be found in the Problem1 folder
 
 1.2.  Please create a database diagram based on the previous story.
 
@@ -30,6 +31,7 @@ A product can have only one quality sheet. <br>
 A product can be either a Milk_Box, a Fruit_Yoghurt or a Sour-Cream.
 
 ## **Problem 2**
+the code for this problem can be found in the Problem2 folder
 
 Given an N array of strings, each string contains numbers, strings, special characters. The task is to create one array which contains the numbers from all N arrays sorted ascending. Every number should appear once in the final list.
 
