@@ -23,11 +23,13 @@ In order to assure the quality of his products, John extended his milk processin
 
 ![alt text](https://github.com/TudorMurariu/Siemens-Internship-Problem-Set/blob/main/UML.PNG)
 
+There is a ome to many relation ship between the QualityLab and the Product(because a quality lab may have multiple products), a one to one relation ship between a product and a quality sheet(because a product may have only one quality sheet.
+
 1.2.  Please create a database diagram based on the previous story.
 
  ![alt text](https://github.com/TudorMurariu/Siemens-Internship-Problem-Set/blob/main/JhonDataBase.PNG)
 
-A product can have only one quality sheet. <br>
+A product can have only one quality sheet, the test sheet can have one of too test-methods (analog or digital). <br>
 A product can be either a Milk_Box, a Fruit_Yoghurt or a Sour-Cream.
 
 ## **Problem 2**
@@ -79,7 +81,7 @@ private static List<Integer> SolveProblem2(String[] strings) {
 
 ## **Example**
 
-Input:
+**Input:**
 
 N = 3
 
@@ -87,6 +89,6 @@ N = 3
 
 Here will be 3 arrays of numbers: [12,45,2022], [5], [236,45]
 
-Output:
+**Output:**
 
 [5,12,45,236,2022]
