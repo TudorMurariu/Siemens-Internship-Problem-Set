@@ -79,7 +79,7 @@ private static List<Integer> SolveProblem2(String[] strings) {
 
 ## **Example**
 
-Input:
+**Input:**
 
 N = 3
 
@@ -87,6 +87,6 @@ N = 3
 
 Here will be 3 arrays of numbers: [12,45,2022], [5], [236,45]
 
-Output:
+**Output:**
 
 [5,12,45,236,2022]
