@@ -36,17 +36,17 @@ Given an N array of strings, each string contains numbers, strings, special char
 **1.1 Create a method which receive as parameter a string and returns an array with all numbers from that list(please use REGEX)**
 ```ruby
 private static List<Integer> getNumberFromString(String text) {
-        String[] words = text.split("\\s"); // splits by whitespaces
+        String[] words = text.split("\\s"); # splits by whitespaces
         List<Integer> numbers = new ArrayList<>();
 
         for(String word : words)
         {
-            Pattern digit_pattern = Pattern.compile("\\d"); // digit
+            Pattern digit_pattern = Pattern.compile("\\d"); # digit
             Matcher matcher = digit_pattern.matcher(word);
 
             int number = 0;
             boolean any_digit = false;
-            while(matcher.find()) ## we iterate to find all the digits in the word
+            while(matcher.find()) # we iterate to find all the digits in the word
             {
                 any_digit = true;
                 number = number * 10 + matcher.group().charAt(0) - '0';
