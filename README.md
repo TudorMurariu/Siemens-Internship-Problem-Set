@@ -46,7 +46,7 @@ private static List<Integer> getNumberFromString(String text) {
 
             int number = 0;
             boolean any_digit = false;
-            while(matcher.find()) # we iterate to find all the digits in the word
+            while(matcher.find()) ## we iterate to find all the digits in the word
             {
                 any_digit = true;
                 number = number * 10 + matcher.group().charAt(0) - '0';
