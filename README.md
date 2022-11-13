@@ -22,7 +22,7 @@ In order to assure the quality of his products, John extended his milk processin
 
 1.2.  Please create a database diagram based on the previous story.
 
- 
+ ![alt text](https://github.com/TudorMurariu/Siemens-Internship-Problem-Set/blob/main/JhonDataBase.PNG)
 
 
 Problem 2
