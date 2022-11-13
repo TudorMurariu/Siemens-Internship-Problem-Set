@@ -58,6 +58,23 @@ private static List<Integer> getNumberFromString(String text) {
 ```
 **1.2 Using the method from 1.1, create a method which create the final array with the numbers from all N arrays**
 
+```ruby
+private static List<Integer> SolveProblem2(String[] strings) {
+        #  we will chosse a treeSet because it keeps our elements unique 
+        # and it keeps them sorted at the same time.
+        TreeSet<Integer> treeSet = new TreeSet<>(); 
+
+        for(String string : strings)
+        {
+            List<Integer> number_list = getNumberFromString(string);
+            number_list.stream()
+                .forEach(x -> treeSet.add(x));
+        }
+
+        return treeSet.stream().collect(Collectors.toList());
+    }
+```
+
 ## **Example**
 
 Input:
