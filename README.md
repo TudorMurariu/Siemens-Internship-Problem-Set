@@ -27,7 +27,7 @@ In order to assure the quality of his products, John extended his milk processin
 
  ![alt text](https://github.com/TudorMurariu/Siemens-Internship-Problem-Set/blob/main/JhonDataBase.PNG)
 
-A product can have only one quality sheet. <br>
+A product can have only one quality sheet, the test sheet can have one of too test-methods (analog or digital). <br>
 A product can be either a Milk_Box, a Fruit_Yoghurt or a Sour-Cream.
 
 ## **Problem 2**
