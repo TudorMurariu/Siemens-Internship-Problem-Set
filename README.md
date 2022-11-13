@@ -25,6 +25,8 @@ In order to assure the quality of his products, John extended his milk processin
 
 There is a ome to many relation ship between the QualityLab and the Product(because a quality lab may have multiple products), a one to one relation ship between a product and a quality sheet(because a product may have only one quality sheet.
 
+ ![alt text](https://github.com/TudorMurariu/Siemens-Internship-Problem-Set/blob/main/UML2.PNG)
+
 1.2.  Please create a database diagram based on the previous story.
 
  ![alt text](https://github.com/TudorMurariu/Siemens-Internship-Problem-Set/blob/main/JhonDataBase.PNG)
