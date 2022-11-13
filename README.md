@@ -34,7 +34,7 @@ A product can be either a Milk_Box, a Fruit_Yoghurt or a Sour-Cream.
 Given an N array of strings, each string contains numbers, strings, special characters. The task is to create one array which contains the numbers from all N arrays sorted ascending. Every number should appear once in the final list.
 
 **1.1 Create a method which receive as parameter a string and returns an array with all numbers from that list(please use REGEX)**
-
+'''
 private static List<Integer> getNumberFromString(String text) {
         String[] words = text.split("\\s"); // splits by whitespaces
         List<Integer> numbers = new ArrayList<>();
@@ -55,7 +55,7 @@ private static List<Integer> getNumberFromString(String text) {
             if(any_digit)
                 numbers.add(number);
         }
-
+'''
 **1.2 Using the method from 1.1, create a method which create the final array with the numbers from all N arrays**
 
 Example
