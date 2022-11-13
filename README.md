@@ -58,7 +58,7 @@ private static List<Integer> getNumberFromString(String text) {
 ```
 **1.2 Using the method from 1.1, create a method which create the final array with the numbers from all N arrays**
 
-Example
+## **Example**
 
 Input:
 
